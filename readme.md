@@ -12,7 +12,7 @@
 </ul>
 
 ## Working Demo
-You can see the demo of the project <a href="http://justlaravel.com/demos/import-csv-data-store-database/">here</a>
+You can see the demo of the project <a href="http://demos.justlaravel.com/import-csv-data-store-database/">here</a>
 
 ## Reference Post
 <a href="http://justlaravel.com/import-csv-data-store-database/">http://justlaravel.com/import-csv-data-store-database/
